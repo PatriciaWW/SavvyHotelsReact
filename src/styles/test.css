@@ -1,0 +1,9 @@
+.body{
+    background-color: #30D5C8;
+    top: 0px;
+    position: relative;
+    background-size: cover;
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    width: 100vw; /* Set the width to 100% of the viewport width */
+    overflow: auto; /* Allow scrolling if the content exceeds the height */
+}
